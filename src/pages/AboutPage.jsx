@@ -26,7 +26,7 @@ const AboutPage = () => {
         <Navbar />
         <div className="flex gap-2 mt-4 h-170">
             <div className="leftside w-1/2 pl-20 p-10 flex flex-col gap-10">
-                <h2 className="text-5xl font-semibold tracking-wider leading-[1.2]">Your Trusted Real<br />
+                <h2 className="text-5xl font-medium tracking-wider leading-[1.2]">Your Trusted Real<br />
                     Estate Advisors
                 </h2>
                 <div className="flex gap-4 flex-wrap">
